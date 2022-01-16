@@ -23,7 +23,7 @@ GOTO EXIT
 echo Eticon Error: Command not found
 GOTO EXIT
 :ver
-echo Eticon Core v1.0.0-windows
+echo Eticon Core v1.0.1-windows
 GOTO EXIT
 :upd
 cd %ETICON_ROOT%
